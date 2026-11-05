@@ -4,7 +4,7 @@
   "description": "Plan projects and triage your day on your Kanduck boards from Claude. Create boards, add and move cards, and see what changed.",
   "author": { "name": "Ankur Shrestha", "url": "https://kanduck.com" },
   "homepage": "https://kanduck.com/docs",
-  "repository": "https://github.com/ankurmans/popboard",
+  "repository": "https://github.com/ankurmans/kanduck-claude-plugin",
   "license": "MIT",
   "keywords": ["kanban", "project-management", "tasks", "boards", "planning"],
   "privacyPolicyUrl": "https://kanduck.com/privacy",
