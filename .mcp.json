@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kanduck": {
+      "type": "http",
+      "url": "https://kanduck.com/mcp"
+    }
+  }
+}
